@@ -10,5 +10,5 @@ https://youtu.be/DUJarM2QTlc
 🔗 **Autonomous convergence of a follower on a stationary leader's position**  
 https://youtu.be/cXIR4UKfCvQ
 
-🔗 **Altitude hold experiment with a noisy barometric data** 
+🔗 **Altitude hold experiment with a noisy barometric data**
 https://youtu.be/UhTbNkakAUU

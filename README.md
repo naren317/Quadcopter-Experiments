@@ -1,4 +1,4 @@
-# Results of quadcopter consensus experiments, leading to 2 IEEE conference papers.
+# Results of quadcopter consensus experiments.
 ## Videos
 
 🔗 **3 Quadcopters' autonomous convergence**  
@@ -12,3 +12,6 @@ https://youtu.be/cXIR4UKfCvQ
 
 🔗 **Altitude hold experiment with a noisy barometric data** <br>
 https://youtu.be/UhTbNkakAUU
+
+🔗 **Autonomous convergence to leader's position at close proximity and noisy barometric data** <br>
+https://youtu.be/tExYo_6CVgg

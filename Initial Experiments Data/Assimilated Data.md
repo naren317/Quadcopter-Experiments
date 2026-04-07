@@ -2,12 +2,7 @@
 <img width="886" height="483" alt="1_Leader_2_Follower_1_Label" src="https://github.com/user-attachments/assets/a1acac33-97a4-47a9-8a73-5a223730d311" />
 <img width="888" height="482" alt="1_Leader_2_Follower_1_Label_Start" src="https://github.com/user-attachments/assets/d1a92e67-a241-46aa-a9eb-1ec8698c4df7" />
 <img width="888" height="482" alt="1_DOF_Testbed_for_PID_Tuning" src="https://github.com/user-attachments/assets/3a3bd735-4eda-4aa7-94c9-9ce4c414b609" />
-
-
-
-
 <img width="385" height="417" alt="5 9 1 Leader&#39;s Packet Broadcasting Scheme" src="https://github.com/user-attachments/assets/1a64362f-6f46-4903-9894-cd542c15bb6b" />
-<img width="868" height="229" alt="A Typical MAVLink Frame" src="https://github.com/user-attachments/assets/e76c2bff-f881-4281-8807-94a26492d068" />
 <img width="724" height="508" alt="Altitude Hold data recorded during a flight with barometer data modifications, data was recorded at 5 Hz" src="https://github.com/user-attachments/assets/96c4150d-fd02-477c-9e40-866cd95635eb" />
 <img width="836" height="434" alt="Altitude Hold data recorded during a flight without barometer data modifications, data was recorded at 5 Hz" src="https://github.com/user-attachments/assets/6910de72-0267-4605-9073-4e3251f133fb" />
 <img width="720" height="456" alt="Barometer data after moving average filter and neglecting variation of 0 1 (10 cm)" src="https://github.com/user-attachments/assets/204837ec-9998-45cd-8edb-e7246ab4572a" />

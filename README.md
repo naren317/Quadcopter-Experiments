@@ -15,3 +15,7 @@ https://youtu.be/UhTbNkakAUU
 
 🔗 **Autonomous convergence to leader's position at close proximity and noisy barometric data** <br>
 https://youtu.be/tExYo_6CVgg
+
+## IEEE Conference papers
+[IEEE Conference Paper RoMoCo 2015](https://ieeexplore.ieee.org/document/7219705)
+[IEEE Conference Paper ECC 2016](https://ieeexplore.ieee.org/document/7810609)

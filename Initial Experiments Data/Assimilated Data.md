@@ -1,4 +1,4 @@
-
+# Assimilated data during initial phase of experiments.
 <img width="886" height="483" alt="1_Leader_2_Follower_1_Label" src="https://github.com/user-attachments/assets/a1acac33-97a4-47a9-8a73-5a223730d311" />
 <img width="888" height="482" alt="1_Leader_2_Follower_1_Label_Start" src="https://github.com/user-attachments/assets/d1a92e67-a241-46aa-a9eb-1ec8698c4df7" />
 <img width="888" height="482" alt="1_DOF_Testbed_for_PID_Tuning" src="https://github.com/user-attachments/assets/3a3bd735-4eda-4aa7-94c9-9ce4c414b609" />
